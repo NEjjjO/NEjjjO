@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi! I'm Kristóf, the Founder and CEO of Shobolinsky, a space-tech startup based in CLuj-Napoca, Romania. 
+---
+### At Shobolinsky, we build hardware for the most unforgiiving playgrounds, be it on Earth, or in outer space. 
+### I am fascinated by the implementation of completely offline, low power Edge AI, and that what I have been working on in the past year, working on research papers and project tied to the European Space Agnecy (ESA)
+
 
 <!--
 **NEjjjO/NEjjjO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
