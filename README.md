@@ -31,7 +31,7 @@ For the past year I've been deep in **fully offline, low power Edge AI**: infere
 ### Receipts
 
 - **EDHPC 2025:** [The Great Coral Reef: Modular AI/ML Task Acceleration for Onboard Data Processing](https://ieeexplore.ieee.org/document/11326421) (IEEE Xplore)
-- **AQTR 2026:** [PAPER TITLE](PAPER_LINK) (IEEE Xplore)
+- **AQTR 2026:** [Hyper-Local Air Quality Awareness for Distributed Agentic Traffic Signal Control](https://ieeexplore.ieee.org/document/11577846) (IEEE Xplore)
 - **Submitted:** Enabling a Far-Side Radio Observatory at Daedalus Crater: Deployment Robotics and Self-Generated RFI Control (AGU, ESA special collection)
 - **Shobolinsky student team, 2024:** 1st at the Romanian CanSat and Rocketry Championship, 2nd at the World Rocketry and CanSat Championship
 - **ESA Academy:** training in Belgium, 2026
