@@ -58,6 +58,6 @@ For the past year I've been deep in **fully offline, low power Edge AI**: infere
 ### Find me
 
 <p>
-<a href="https://YOUR_SHOBOLINSKY_SITE"><img src="https://img.shields.io/badge/Shobolinsky-website-0b3d91?style=for-the-badge"/></a>
-<a href="[https://www.linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/kristof-vescanbakcsy/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge"/></a>
+<a href="https://shobolinsky.com"><img src="https://img.shields.io/badge/Shobolinsky-website-0b3d91?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/kristof-vescanbakcsy/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge"/></a>
 </p>
