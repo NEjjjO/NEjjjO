@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d91,100:1f6feb&height=200&section=header&text=Krist%C3%B3f%20Vescan-Bakcsy&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Co-founder%20%26%20CEO%20%40%20Shobolinsky%20%7C%20Space%20hardware%20%7C%20Edge%20AI&descSize=18&descAlignY=60" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Hardware+for+unforgiving+places;Offline+low+power+Edge+AI;No+cloud.+No+WiFi.+No+excuses.;If+it+has+a+CAN+bus%2C+I+probably+routed+it" alt="typing banner"/>
 
 </div>
